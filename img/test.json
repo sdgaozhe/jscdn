@@ -1,0 +1,17 @@
+{
+    "data": {
+        "title": "moochub测试",
+        "collects": [
+            {
+                "title": "第一集",
+                "video": [
+                    {
+                        "type": "application/x-mpegURL",
+                        "src": "https://cdn.jsdelivr.net/gh/sdgaozhe/jscdn/img/27db6168-7358-11ea-adb9-001a7dda7114.m3u8"
+                    }
+                ],
+                "time": 56
+            }
+        ]
+    }
+}
